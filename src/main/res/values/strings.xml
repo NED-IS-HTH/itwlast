@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Diet Tracker</string>
+    <!--  Goal spinner options  -->
+    <string-array name="goal_options">
+        <item>Lose Weight</item>
+        <item>Maintain Weight</item>
+        <item>Gain Muscle</item>
+    </string-array>
+    <!--  Meal type spinner options  -->
+    <string-array name="meal_types">
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>Snack</item>
+    </string-array>
+</resources>

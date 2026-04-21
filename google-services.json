@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "829484618006",
+    "project_id": "diet-tracker-d67e4-e2097",
+    "storage_bucket": "diet-tracker-d67e4-e2097.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829484618006:android:630e7d767ec0884f9cc037",
+        "android_client_info": {
+          "package_name": "com.itwpro.diet_trackerboom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfSF6FGoTNmCKeKZjuKKLgaZ-LKOk1tLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829484618006:android:cbfa439b5c123e109cc037",
+        "android_client_info": {
+          "package_name": "com.itwpro.diettrackboom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfSF6FGoTNmCKeKZjuKKLgaZ-LKOk1tLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
